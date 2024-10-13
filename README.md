@@ -27,7 +27,7 @@ ExeialRR is an all-in-one toolkit designed for Open Source Intelligence (OSINT) 
 To install ExeialRR, you can either download the `Exeial.py` file or clone the repository. Here’s how:
 
 ```bash
-git clone https://github.com/yourusername/ExeialRR.git
+git clone https://github.com/Laggy/ExeialRR.git
 cd ExeialRR
 ```
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
