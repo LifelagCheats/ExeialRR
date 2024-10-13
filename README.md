@@ -29,6 +29,7 @@ To install ExeialRR, you can either download the `Exeial.py` file or clone the r
 ```bash
 git clone https://github.com/Laggy/ExeialRR.git
 cd ExeialRR
+python Exeial.py
 ```
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
